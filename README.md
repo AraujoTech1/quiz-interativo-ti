@@ -10,7 +10,7 @@ Projeto de quiz interativo para testar conhecimentos em tecnologia da informaç�
 - **VS Code**: como editor de código
 - **Git e GitHub**: para versionamento e armazenamento do projeto
 
-🎥 **Capturas de Tela**
+## 🎥 **Capturas de Tela**
 
 - **Projeto em Execução**
   ![Execução](captura-de-tela1.png) 
