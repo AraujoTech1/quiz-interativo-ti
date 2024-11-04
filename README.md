@@ -15,8 +15,6 @@ Projeto de quiz interativo para testar conhecimentos em tecnologia da informaç�
 - **Projeto em Execução**
   ![Execução](captura-de-tela1.png) 
 
-- **Apresentação do Projeto em Animação**
-  ![Apresentação](captura-de-tela2.png)
 
 ## Teste o Projeto
 
