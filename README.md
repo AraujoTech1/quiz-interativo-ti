@@ -12,7 +12,6 @@ Projeto de quiz interativo para testar conhecimentos em tecnologia da informaç�
 ## Teste o Projeto
 1. Abra o arquivo `index.html` no navegador (recomendo usar a extensão Live Server).
 2. Responda às perguntas e verifique sua pontuação ao final.
-3. Divirta-se!
 
 🔗 **Links Úteis**
 - [Documentação do JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
