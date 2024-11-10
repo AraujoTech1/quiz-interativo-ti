@@ -9,10 +9,6 @@ Projeto de quiz interativo para testar conhecimentos em tecnologia da informaç�
 - **VS Code**: como editor de código
 - **Git e GitHub**: para versionamento e armazenamento do projeto
 
-## Teste o Projeto
-1. Abra o arquivo `index.html` no navegador (recomendo usar a extensão Live Server).
-2. Responda às perguntas e verifique sua pontuação ao final.
-
 🔗 **Links Úteis**
 - [Documentação do JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Documentação HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
