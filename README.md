@@ -2,14 +2,7 @@
 
 Projeto de quiz interativo para testar conhecimentos em tecnologia da informação. Este projeto permite que os usuários respondam a perguntas de múltipla escolha e visualizem suas pontuações ao final.
 
-## Ferramentas Utilizadas
+## linguagens
 - **JavaScript**: para a lógica do quiz
 - **HTML**: para a interface de entrada
 - **CSS**: para o estilo visual
-- **VS Code**: como editor de código
-- **Git e GitHub**: para versionamento e armazenamento do projeto
-
-🔗 **Links Úteis**
-- [Documentação do JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [Documentação HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-
