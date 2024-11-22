@@ -79,7 +79,7 @@ function checkAnswer(event) {
     const responseElement = document.getElementById("response");
 
     if (selectedAnswer === correctAnswer) {
-        responseElement.innerText = "Correto!";
+        responseElement.innerText = "Correto! A resposta correta é: " + correctAnswer;
         responseElement.style.backgroundColor = "green";
         responseElement.style.color = "white";
         correctAnswers++;

@@ -29,7 +29,7 @@ button {
     margin: 8px 0;
     border: none;
     border-radius: 8px;
-    background: linear-gradient(90deg, #007bff 0%, #0056b3 100%);
+    background: linear-gradient(90deg, #0268d4ee 0%, #7715af 100%);
     color: #fff;
     font-size: 16px;
     cursor: pointer;
@@ -37,13 +37,13 @@ button {
 }
 
 button:hover {
-    background: linear-gradient(90deg, #0056b3 0%, #007bff 100%);
+    background: linear-gradient(90deg, #0268d4ee 0%, #7715af 100%);
     transform: scale(1.05);
 }
 
 button:active {
     transform: scale(1.02);
-    background: #003f7f;
+    background: #0c7bbb;
 }
 
 #response {
