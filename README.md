@@ -1,4 +1,4 @@
-# Quiz Interativo de TI
+<h1 align="center">Quiz Interativo de TI</h1>
 
 
 ## Descrição do Projeto
