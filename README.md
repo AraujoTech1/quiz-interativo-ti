@@ -1,4 +1,5 @@
 # Quiz Interativo de TI
+
 Quiz para testar conhecimentos em Tecnologia da Informação.
 
 ## Descrição do Projeto
