@@ -8,5 +8,5 @@ Este projeto apresenta um quiz interativo com perguntas de múltipla escolha sob
 - JavaScript: Implementação da lógica do jogo.
 - HTML: Estruturação das páginas.
 - CSS: Estilização e layout.
-
+- Git: Versionamento 
 
