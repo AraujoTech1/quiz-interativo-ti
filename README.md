@@ -1,6 +1,7 @@
 # Quiz Interativo de TI 
 
-Projeto de quiz interativo para testar conhecimentos em tecnologia da informação. Este projeto permite que os usuários respondam a perguntas de múltipla escolha e visualizem suas pontuações ao final.
+Projeto:
+Este é um quiz interativo que tem como objetivo testar conhecimentos sobre tecnologia da informação. O usuário responde a perguntas de múltipla escolha e, ao final, recebe sua pontuação.
 
 ## Tecnologias
 - **JavaScript**
