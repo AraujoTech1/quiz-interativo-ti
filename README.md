@@ -1,7 +1,7 @@
 <h1 align="center">Quiz Interativo de TI</h1>
 
 ## Descrição do Projeto
-O Quiz Interativo foi desenvolvido para testar e aprimorar os conhecimentos dos usuários sobre tecnologia da informação. O projeto apresenta perguntas de múltipla escolha, abordando conceitos importantes e atualizados da área. O site é totalmente responsivo e intuitivo. Ao final do quiz, o usuário recebe sua pontuação detalhada, juntamente com um feedback sobre as respostas.
+O Quiz Interativo foi desenvolvido para testar e aprimorar os conhecimentos dos usuários sobre tecnologia da informação. Esse projeto apresenta perguntas de múltipla escolha, abordando conceitos importantes e atualizados da área. O site é totalmente responsivo e intuitivo. Ao final do quiz, o usuário recebe sua pontuação detalhada, juntamente com um feedback sobre as respostas.
 
 ## Funcionalidades do Projeto
 - As questões respondidas como "correto!"
