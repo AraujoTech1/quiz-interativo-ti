@@ -19,5 +19,5 @@ O Quiz Interativo foi desenvolvido para testar e aprimorar os conhecimentos dos 
 ---
 
 <p align="center">
-  <a href="https://github.com/AraujoTech1" target="_blank"> 👩‍💻 Desenvolvido por Fernanda Araujo 👩‍💻</a>
+  ⌨️ Desenvolvido por <a href="https://github.com/AraujoTech1" target="_blank">Fernanda Araujo</a> 
 </p>
