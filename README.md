@@ -10,14 +10,14 @@ O Quiz Interativo foi desenvolvido para testar e aprimorar os conhecimentos dos 
 
 ## Tecnologias Utilizadas
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0000FF?style=for-the-badge&logo=javascript&logoColor=FF00FF)
+![HTML](https://img.shields.io/badge/HTML-0000FF?style=for-the-badge&logo=html5&logoColor=FF00FF)
+![CSS](https://img.shields.io/badge/CSS-0000FF?style=for-the-badge&logo=css3&logoColor=FF00FF)
+![Git](https://img.shields.io/badge/Git-0000FF?style=for-the-badge&logo=git&logoColor=FF00FF)
+![VS Code](https://img.shields.io/badge/VS_Code-0000FF?style=for-the-badge&logo=visualstudiocode&logoColor=FF00FF)
 
 ---
-<p align="right">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo" />
+
+<p align="center">
+  <a href="https://github.com/AraujoTech1" target="_blank"> 👩‍💻 Desenvolvido por Fernanda Araujo 👩‍💻</a>
 </p>
